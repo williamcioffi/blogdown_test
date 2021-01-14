@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>getting started on A Hugo website test</title>
+    <link>/</link>
+    <description>Recent content in getting started on A Hugo website test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the &amp;lt;strong&amp;gt;blogdown&amp;lt;/strong&amp;gt;package. The theme was forked from @jrutheiser/hugo-lithium-themeand modified by Yihui Xie.</description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>/data/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/data/</guid>
+      <description>This is the data:
+ [data][info] data item 1 [data][info] data item 2 [data][info] data item 3 [data][info] data item 4  [data][info] data item 4a [data][info] data item 4b [data][info] data item 4c   [data][info] data item 5 [data][info] data item 6 [data][info] data item 7 [data][info] data item 8  This is the end of the data.</description>
+    </item>
+    
+    <item>
+      <title>docs</title>
+      <link>/docs/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/docs/</guid>
+      <description>Here are some docs or this should be an external link probably?</description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>/links/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/links/</guid>
+      <description>Here are some useful external links:
+This is the end of the useful external links.</description>
+    </item>
+    
+  </channel>
+</rss>
